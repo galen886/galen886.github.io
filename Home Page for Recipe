@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+h1 {font-size: 33px;}
+h2 {font-size: medium;}
+p {font-size: small;}
+</style>
+</head>
+<body>
+<title>Quick and Easy Recipes for any time of the day!</title>
+<nav>
+ <ul>
+        <li><a href="Home.html">Home</a></li>
+        <li><a href="breakfast.html">Breakfast</a></li>
+        <li><a href="lunch.html">Lunch</a></li>
+        <li><a href="dinner.html">Dinner</a></li>
+        <li><a href="dessert.html">Dessert</a></li>
+    </ul>
+</nav>
+<section>
+    <h1 style="text-align: center;">Welcome to Jeffrey's Specials!</h1> 
+    <h2 style="text-align: center;">We have 5 star meals including Veggie Stir-Fry, Caprese Quesadilla, and a fan favorite, Banana-Out Pancakes!</h2>
+</section>
+<img style="width: 400px; height: 400px"src="Hmhmhm.jpg" alt="Pancakes man">
+<img style="margin-left: 500px; margin-top:-600px ;width:400px ; height: 400px"src="VeggieStirFryed.jpg" alt="VeggiesRice">
+<img style="margin-left: 1700px; margin-top:-600px ;width:400px ; height: 400px"src="CapQues.jpg" alt="CapQuesYo">
+</body>
+</html>
